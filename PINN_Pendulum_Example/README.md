@@ -10,6 +10,12 @@ This project demonstrates how **Physics-Informed Neural Networks (PINNs)** can l
 
 In this project, the PINN is trained to model pendulum motion and **infer the damping coefficient `b`** directly from data.
 
+## Video Demonstration
+
+Check out the trained neural network predicting double pendulum motion:
+
+[![Watch the video](https://img.youtube.com/vi/Jl8KVYe6arY/hqdefault.jpg)](https://youtu.be/Jl8KVYe6arY)
+
 ---
 
 ## What Is a Physics-Informed Neural Network (PINN)?
